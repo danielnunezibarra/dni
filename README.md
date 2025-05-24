@@ -1,6 +1,6 @@
 # 🌐 Sitio Web Personal — Daniel Núñez Ibarra
 
-Este repositorio contiene mi sitio web personal desarrollado completamente en HTML, sin frameworks ni generadores externos. El diseño está hecho a mano, usando [Bootstrap](https://getbootstrap.com) para asegurar que sea responsivo y limpio.
+Este repositorio contiene mi sitio web personal desarrollado completamente en HTML.
 
 🟢 Puedes ver el sitio en línea aquí:  
 👉 [https://danielnunezibarra.github.io/dni](https://danielnunezibarra.github.io/dni)
